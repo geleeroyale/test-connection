@@ -36,4 +36,4 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/test-postgres-connection:latest
+            ghcr.io/${{ github.repository_owner }}/test-connection:latest
